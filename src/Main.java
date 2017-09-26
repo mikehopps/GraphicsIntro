@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        JFrame frame = new JFrame("");
+        JFrame frame = new JFrame("TITLE");
         frame.setDefaultCloseOperation(frame.EXIT_ON_CLOSE);
         int width = 800;
         int height = 800;
