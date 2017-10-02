@@ -27,6 +27,7 @@ public class Face {
         g2.fillOval(x+diameter/4*3 - diameter/6, y+diameter/4, diameter/6, diameter/6);
 
         g2.drawArc(x+diameter/4, y+diameter/4, diameter/2, diameter/2, 200, 140);
+
     }
 
 }
